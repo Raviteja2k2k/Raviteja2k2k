@@ -2,6 +2,7 @@ name: Refresh README (latest work)
 on:
   schedule: [{ cron: "0 21 * * *" }]    # 02:30 IST daily
   workflow_dispatch:
+concurrency: { group: profile-writes, cancel-in-progress: false }
 permissions:
   contents: write
 jobs:
@@ -24,4 +25,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md assets
           git diff --cached --quiet || git commit -m "chore: refresh latest work"
-          git push
+          git pull --rebase origin main && git push

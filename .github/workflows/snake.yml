@@ -2,6 +2,7 @@ name: Contribution snake
 on:
   schedule: [{ cron: "30 21 * * *" }]   # 03:00 IST daily
   workflow_dispatch:
+concurrency: { group: profile-writes, cancel-in-progress: false }
 permissions:
   contents: write
 jobs:

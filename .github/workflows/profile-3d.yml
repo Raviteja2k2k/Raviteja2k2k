@@ -2,6 +2,7 @@ name: 3D contribution calendar
 on:
   schedule: [{ cron: "15 21 * * *" }]   # 02:45 IST daily
   workflow_dispatch:
+concurrency: { group: profile-writes, cancel-in-progress: false }
 permissions:
   contents: write
 jobs:
@@ -19,4 +20,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib
           git diff --cached --quiet || git commit -m "chore: refresh 3D contribution calendar"
-          git push
+          git pull --rebase origin main && git push
