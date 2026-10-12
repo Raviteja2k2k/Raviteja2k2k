@@ -1,49 +1,184 @@
-## Hi there 👋
+<!-- Profile README v2 · source of truth: TECH_PROFILE_MASTER (verified claims only) · built by scripts/build_assets.py + .github/workflows -->
 
-# 👋 Dr. Thiriveedhi Ravi Teja, BDS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect. Health-tech AI · Forward-deployed AI engineering · AI governance." src="assets/hero-light.svg" width="100%">
+</picture>
 
-> **Clinician × Healthcare Systems Architect × AI Agent Builder**  
-> 📍 Hyderabad, India | 🌍 Seeking Global Remote Health-Tech Roles  
-> 🦷 19+ Years Clinical Leadership | 🤖 OpenClaw Agent Developer | 🖨️ 3D Printing Innovator
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+    <img alt="Architect of 24 production AI agents · Cut LLM heartbeat spend by 91% · 20 years running hospitals and clinics · DICOM to 3D-printed surgical models" src="assets/typing-light.svg" width="640">
+  </picture>
+</p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg">
+  <img alt="626 commits on Empire OS · 2 production AI platforms · 24 production agents · 87/87 release-gate suites · −91% heartbeat token spend · 20 years clinical and hospital operations" src="assets/proof-light.svg" width="100%">
+</picture>
 
-## 🎯 Mission
-Create sustainable global impact in dentistry & medicine through **AI integration**, **3D printing accessibility**, and **scalable digital health systems**.
+## Hello, I'm Ravi
 
-## 💼 Current Focus
-- 🧠 Building **NEXUS BRAIN**: Offline-first personal knowledge system with anti-hallucination RAG
-- 🤖 Developing **OpenClaw agents** (Rhino-Main, Hamsa, VishwaKarma) for health-tech automation
-- 🦷 Packaging **Dental AI Template Pack**: 3,000+ RCT cases → scalable clinical decision support
-- 🖨️ Scaling **INGENIUM 3D**: DICOM-based surgical models for patient education & procedural planning
+For twenty years I ran the operating side of healthcare: I treated patients, founded and ran three facilities, and wrote the SOPs, audits and financial controls that kept them safe and solvent. In 2026 I brought that operator discipline to AI. I now **design, ship and govern production multi-agent systems** — and make them pay for themselves.
 
-## 🔬 Verified Clinical Scale
-| Metric | Value |
-|--------|-------|
-| Root Canal Treatments | 3,000+ cases |
-| Surgical Extractions | 600+ cases |
-| Monthly Patient Interactions | 1,600+ across 3 facilities |
-| Team Supervised | 15+ staff (doctors, dentists, technicians) |
-| Branches Governed | 9-branch financial accountability framework |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bullets-dark.svg">
+  <img alt="Measured, not claimed. Heartbeat tokens a day 12.0 M to 1.0 M; memory search latency 48 s to 2.8 s; gateway CPU 209% to 4%; critical security findings 8 to 0; extraction cost per message about 38k to about 4k tokens." src="assets/bullets-light.svg" width="100%">
+</picture>
 
-## 🛠️ Technology Stack
-```yaml
-Clinical Systems: EMR Implementation • SOP Design • Audit Frameworks • Infection Control
-3D Printing: Bambu Studio • Orca Slicer • PLA/PETG/ABS/TPU • DICOM Workflows
-Automation: n8n • WhatsApp/Telegram Chatbots • AI Agent Development
-AI/ML: OpenClaw • ChromaDB • LlamaIndex • Local LLM Routing (Groq, Gemini, Ollama)
-DevOps: Git • Syncthing • rclone • Docker (planned)
+> [!NOTE]
+> Most of my production work is private (client systems and my own platform). The contribution graph shows that activity; the case studies below explain it. Sanitised public showcases are published under **[Sterile Field](https://github.com/sterilefield)** — clean-room engineering for healthcare AI — as each one passes a five-gate release check.
 
-🏆 Key Innovations
-🦠 Compressed-Air PPE Isolation Suite: Engineered during COVID shortages; reduced PPE costs by 50-60%
-🦷 DICOM→3D Surgical Models: Improved patient comprehension & treatment acceptance by 50-60%
-🔌 Centralized Vacuum System: Linked multiple dental chairs to single pump; 50% CapEx reduction
-🤖 Clinical AI Agents: Building OpenClaw-based assistants for dental practice automation
-🌐 Open Source & Knowledge Sharing
-📦 NEXUS BRAIN: Personal knowledge OS with verified-context injection (anti-hallucination)
-🦷 Dental AI Templates: Clinical protocols, SOPs, audit frameworks packaged for reuse
-🔐 Security-First Design: 100% FOSS, offline-first, credential-hygiene by default
-📫 Connect
-💼 LinkedIn
-✉️ dr.raviteja1981@gmail.com
-🏥 Open to: Lead Clinical Specialist / Health Systems Architect roles (Remote, India-based)
+## Hire me for
+
+| Track | What I bring | Evidence |
+|---|---|---|
+| 🩺 **Health-tech AI** | 20 years of clinical and hospital operations, plus AI built for regulated care: consent-first, no clinical advice, human hand-off | Dental WhatsApp Front Desk · DICOM → 3D-print pipeline · Clinical Copilot |
+| 🚀 **AI startups · forward-deployed** | Two production multi-agent platforms shipped spec-first with Claude Code and Codex, from architecture to on-call | Tejas Empire OS · Real-estate AI operations platform |
+| 🛡️ **AI governance** | Autonomy levels, risk classes, kill switches, approval gates, audit trails; OWASP Agentic Top 10, NIST AI RMF and DPDP mapping | Empire OS governance framework |
+| 💸 **LLM cost engineering** | 46 documented token-economics methods across 5 layers; measured before/after on live systems | −91% heartbeat tokens · ₹0 marginal API cost per lead |
+
+## What I've built in 2026
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Tejas Empire OS
+Self-hosted multi-agent AI operating system that runs my businesses.
+
+- **9 live agents** with routing, delegation and human-approval tiers
+- **626 commits**, 7 releases in 3 days, **87/87** promotion gate, **841** Cockpit tests
+- ADR-driven: 12 founding decisions, 56 design documents
+- Runs on a **2012 Mac mini (8 GB)** under a written RAM budget and memory governor
+
+</td>
+<td width="50%" valign="top">
+
+### Real-estate AI operations platform
+Built for a Hyderabad brokerage (client anonymised). Live since June 2026.
+
+- **15 agents** on the WhatsApp Business API and Telegram
+- **460+ leads** captured, qualified and followed up; single-writer SQLite spine
+- Heartbeat tokens **12 M → 1 M a day (−91%)**; **₹0 marginal API cost** per lead
+- 129 bugs fixed with cause, fix and lesson; 75 lessons, 61 reused
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Dental WhatsApp Front Desk
+Administrative-only assistant for small dental clinics.
+
+- Consent-first (DPDP), never diagnoses or advises; urgent words trigger emergency wording
+- HMAC-verified webhooks, replay protection, quarantine on corrupt state
+- **17 offline tests**, including a signed 14-day synthetic pilot
+
+</td>
+<td width="50%" valign="top">
+
+### Clinical engineering
+Two decades of building where the textbook ran out.
+
+- DICOM / CBCT → STL → 3D-printed models: treatment acceptance **+50–60%**
+- Compressed-air PPE isolation suite that kept a clinic open in 2020, at 50–60% lower PPE cost
+- WhatsApp and Telegram clinic bots on n8n since 2024
+
+</td>
+</tr>
+</table>
+
+## Architecture at a glance
+
+```mermaid
+flowchart LR
+    subgraph T1["Tier 1 · Seat (MacBook M3)"]
+        P["Planner<br/>Claude"] --> B["Builders<br/>Claude Code · Codex"]
+    end
+    subgraph T2["Tier 2 · Control plane (2012 Mac mini, 8 GB)"]
+        G["OpenClaw gateway<br/>9 governed agents"] --- GOV["Governor · kill switch<br/>approvals · audit log"]
+        G --- OBS["Telemetry · alerts<br/>backups · DR drills"]
+    end
+    subgraph T4["Tier 4 · Client edge nodes"]
+        C["Client platform<br/>15 agents · WhatsApp · Telegram"]
+    end
+    subgraph T5["Tier 5 · Free cloud"]
+        GH["GitHub · encrypted Drive<br/>Tailscale · Telegram"]
+    end
+    B -- "test-gated releases" --> G
+    G -- "one-way observation" --> C
+    G --> GH
+```
+
+## How I build
+
+I practise **disciplined vibe coding**: I write the spec, the acceptance criteria and the guard rules; AI coding agents write the code; I own architecture, review, testing, release and operations.
+
+```mermaid
+flowchart LR
+    S["Spec + task card<br/>acceptance criteria"] --> A["AI builder<br/>under guard rules"]
+    A --> R["Independent review<br/>agent or adversarial pass"]
+    R --> T{"Release gate<br/>all suites green?"}
+    T -- yes --> SHIP["Tagged release<br/>+ evidence file"]
+    T -- no --> S
+```
+
+## Latest
+
+<!-- LATEST:START -->
+_First public showcases and open-source contributions land here as they ship (Oct–Nov 2026)._
+
+<sub>Updated automatically by GitHub Actions.</sub>
+<!-- LATEST:END -->
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="3D contribution calendar" src="profile-3d-contrib/profile-gitblock.svg" width="100%">
+</picture>
+
+<details>
+<summary><b>Career record</b> · 20 years of clinical, operational and entrepreneurial work</summary>
+
+| Years | Role |
+|---|---|
+| 2026 – now | Architect and operator, Tejas Empire OS; architect and builder of a client AI operations platform |
+| 2019 – now | Founder and lead engineer, INGENIUM 3D (clinical 3D printing studio) |
+| 2010 – 2025 | Founder and chief dental surgeon, DV Dental Hospital & Implant Centre (team of 26) |
+| 2010 – now | Founder and senior administrator, Manjary Nursing Home (600+ patient encounters a month) |
+| 2007 – now | Founder, Manjary Dental Care Centre |
+| 2013 – 2019 | Founder and CEO, Shree Manjary Medical Agency (clean exit) |
+| 2006 – 2010 | Branch head → regional clinical administrator, a 9-branch dental hospital group |
+
+**Clinical depth:** 3,000+ root canal treatments · 600+ surgical extractions · reinfection −90% through spore-tested sterilisation governance · antibiotic misuse −40% through standard treatment guidelines.
+
+**Education:** BDS, Rajiv Gandhi University of Health Sciences (2006). **Languages:** English, Telugu, Hindi, Kannada.
+</details>
+
+<details>
+<summary><b>Toolbox</b></summary>
+<br>
+
+**Languages and platforms:** Node.js · Python · TypeScript · React · Vite · SQLite · Git · GitHub Actions · Docker · Figma · Linux · macOS
+**AI and agents:** Claude (Code, MCP, Projects) · OpenAI GPT and Codex · Gemini · OpenClaw · MCP servers · open-weight models via Ollama · RAG (LanceDB, ChromaDB, LlamaIndex) · promptfoo evals
+**Ops:** macOS launchd · Tailscale · GitHub Actions · gitleaks · osv-scanner · Playwright · backups and DR drills
+**Integrations:** WhatsApp Business API · Telegram · Google Workspace APIs · n8n
+**Clinical tech:** DICOM / CBCT → 3D printing (Bambu, OrcaSlicer) · EMR
+</details>
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/dr-ravi-teja-clinical-ai"><b>LinkedIn</b></a> ·
+  <a href="mailto:dr.raviteja1981.new@gmail.com"><b>Email</b></a> ·
+  Hyderabad, India · open to remote roles (IST, UTC+5:30)
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raviteja2k2k/Raviteja2k2k/output/github-snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Raviteja2k2k/Raviteja2k2k/output/github-snake.svg" width="100%">
+</picture>
+
+<sub>Every number on this page is verified against a repository, a live dashboard or a release note. Graphics are generated by this repository's own workflows.</sub>
