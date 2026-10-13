@@ -127,7 +127,9 @@ flowchart LR
 ## Latest
 
 <!-- LATEST:START -->
-_First public showcases and open-source contributions land here as they ship (Oct–Nov 2026)._
+**Public showcases**
+
+- 🧪 [sterilefield/empire-os-reference-architecture](https://github.com/sterilefield/empire-os-reference-architecture) — Reference architecture: 9 governed AI agents on an 8 GB Mac mini, 99/99-suite release gate, 1,026 tests. Sanitised showcase of Empire OS.
 
 <sub>Updated automatically by GitHub Actions.</sub>
 <!-- LATEST:END -->
