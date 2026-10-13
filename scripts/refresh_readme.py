@@ -14,6 +14,7 @@ import urllib.request
 from pathlib import Path
 
 USER = os.environ.get("GH_USER", "Raviteja2k2k")
+ORGS = os.environ.get("SHOWCASE_ORGS", "sterilefield").split()
 TOKEN = os.environ.get("GH_TOKEN", "")
 README = Path(__file__).resolve().parent.parent / "README.md"
 START, END = "<!-- LATEST:START -->", "<!-- LATEST:END -->"
@@ -28,9 +29,27 @@ def api(path: str):
         return json.load(r)
 
 
+def public_repos():
+    repos = list(api(f"/users/{USER}/repos?type=owner&sort=pushed&per_page=50"))
+    for org in ORGS:
+        repos += [r for r in api(f"/orgs/{org}/repos?type=public&sort=pushed&per_page=50") if r["name"] != ".github"]
+    return repos
+
+
+def showcases(limit: int = 6):
+    out = []
+    for org in ORGS:
+        for r in api(f"/orgs/{org}/repos?type=public&sort=pushed&per_page=50"):
+            if r["name"] == ".github" or r.get("archived"):
+                continue
+            desc = (r.get("description") or "").strip()
+            out.append(f"- 🧪 [{r['full_name']}]({r['html_url']}){' — ' + desc if desc else ''}")
+    return out[:limit]
+
+
 def releases(limit: int = 5):
     rows = []
-    for repo in api(f"/users/{USER}/repos?type=owner&sort=pushed&per_page=50"):
+    for repo in public_repos():
         if repo.get("private") or repo.get("fork"):
             continue
         for rel in api(f"/repos/{repo['full_name']}/releases?per_page=3"):
@@ -52,11 +71,13 @@ def contributions(limit: int = 5):
 
 def main():
     try:
-        rel, prs = releases(), contributions()
+        shows, rel, prs = showcases(), releases(), contributions()
     except Exception as exc:  # network or rate limit: keep the current section untouched
         print(f"skip refresh: {exc}", file=sys.stderr)
         return
     lines = []
+    if shows:
+        lines += ["**Public showcases**", "", *shows, ""]
     if rel:
         lines += ["**Latest releases**", "", *rel, ""]
     if prs:
