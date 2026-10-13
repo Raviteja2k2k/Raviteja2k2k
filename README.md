@@ -130,6 +130,13 @@ flowchart LR
 **Public showcases**
 
 - 🧪 [sterilefield/empire-os-reference-architecture](https://github.com/sterilefield/empire-os-reference-architecture) — Reference architecture: 9 governed AI agents on an 8 GB Mac mini, 99/99-suite release gate, 1,026 tests. Sanitised showcase of Empire OS.
+- 🧪 [sterilefield/agent-governance-kit](https://github.com/sterilefield/agent-governance-kit) — Autonomy levels, risk classes, approval tiers, kill switches and audit for AI agents, mapped to OWASP Agentic Top 10, NIST AI RMF and ISO/IEC 42001, with a healthcare overlay for India.
+- 🧪 [sterilefield/llm-token-economics](https://github.com/sterilefield/llm-token-economics) — Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, with measured before/after.
+
+**Recent open-source contributions**
+
+- 🤝 [docs: CONTRIBUTING points to scripts/check.sh](https://github.com/sterilefield/empire-os-reference-architecture/pull/4) in **sterilefield/empire-os-reference-architecture** · 2026-10-13
+- 🤝 [docs: governance tables match the DOC-54 framework](https://github.com/sterilefield/empire-os-reference-architecture/pull/5) in **sterilefield/empire-os-reference-architecture** · 2026-10-13
 
 <sub>Updated automatically by GitHub Actions.</sub>
 <!-- LATEST:END -->
