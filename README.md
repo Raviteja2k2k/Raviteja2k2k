@@ -14,7 +14,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg">
-  <img alt="626 commits on Empire OS · 2 production AI platforms · 24 production agents · 87/87 release-gate suites · −91% heartbeat token spend · 20 years clinical and hospital operations" src="assets/proof-light.svg" width="100%">
+  <img alt="626 commits on Empire OS · 2 production AI platforms · 24 production agents · 99/99 release-gate suites (v1.3.0) · −91% heartbeat token spend · 20 years clinical and hospital operations" src="assets/proof-light.svg" width="100%">
 </picture>
 
 ## Hello, I'm Ravi
@@ -48,7 +48,7 @@ For twenty years I ran the operating side of healthcare: I treated patients, fou
 Self-hosted multi-agent AI operating system that runs my businesses.
 
 - **9 live agents** with routing, delegation and human-approval tiers
-- **626 commits**, 7 releases in 3 days, **87/87** promotion gate, **841** Cockpit tests
+- **626+ commits**, 8 releases in 7 days (v1.0.0 → **v1.3.0**, 7–13 Oct 2026), **99/99** release gate, **1,026** automated tests with 0 failures
 - ADR-driven: 12 founding decisions, 56 design documents
 - Runs on a **2012 Mac mini (8 GB)** under a written RAM budget and memory governor
 

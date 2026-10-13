@@ -37,7 +37,7 @@ PROOF = [
     ("626", "commits · Empire OS"),
     ("2", "production AI platforms"),
     ("24", "production agents"),
-    ("87/87", "release-gate suites"),
+    ("99/99", "release-gate suites"),
     ("−91%", "heartbeat token spend"),
     ("20 yrs", "clinical & hospital ops"),
 ]
