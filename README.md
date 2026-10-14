@@ -19,7 +19,7 @@
 
 ## Hello, I'm Ravi
 
-For twenty years I ran the operating side of healthcare: I treated patients, founded and ran three facilities, and wrote the SOPs, audits and financial controls that kept them safe and solvent. In 2026 I brought that operator discipline to AI. I now **design, ship and govern production multi-agent systems** — and make them pay for themselves.
+For twenty years I ran the operating side of healthcare: I treated patients, founded two healthcare facilities and ran a third as senior administrator, and wrote the SOPs, audits and financial controls that kept them safe and solvent. In 2026 I brought that operator discipline to AI. I now **design, ship and govern production multi-agent systems** — and make them pay for themselves.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bullets-dark.svg">
@@ -158,14 +158,14 @@ flowchart LR
 | 2026 – now | Architect and operator, Tejas Empire OS; architect and builder of a client AI operations platform |
 | 2019 – now | Founder and lead engineer, INGENIUM 3D (clinical 3D printing studio) |
 | 2010 – 2025 | Founder and chief dental surgeon, DV Dental Hospital & Implant Centre (team of 26) |
-| 2010 – now | Founder and senior administrator, Manjary Nursing Home (600+ patient encounters a month) |
-| 2007 – now | Founder, Manjary Dental Care Centre |
+| 2010 – now | Senior administrator, Manjary Nursing Home (600+ patient encounters a month) |
+| 2007 – now | Founder · senior clinical systems architect · senior administrator and dental surgeon, Manjary Dental Care Centre |
 | 2013 – 2019 | Founder and CEO, Shree Manjary Medical Agency (clean exit) |
-| 2006 – 2010 | Branch head → regional clinical administrator, a 9-branch dental hospital group |
+| 2006 – 2010 | Associate dentist → branch head → regional clinical administrator, a 9-branch dental hospital group |
 
 **Clinical depth:** 3,000+ root canal treatments · 600+ surgical extractions · reinfection −90% through spore-tested sterilisation governance · antibiotic misuse −40% through standard treatment guidelines.
 
-**Education:** BDS, Rajiv Gandhi University of Health Sciences (2006). **Languages:** English, Telugu, Hindi, Kannada.
+**Education:** BDS, Rajiv Gandhi University of Health Sciences (course 2000–2005, internship 2006); registered dental surgeon, AP State Dental Council (since 2010). **Languages:** English, Telugu, Hindi, Kannada.
 </details>
 
 <details>

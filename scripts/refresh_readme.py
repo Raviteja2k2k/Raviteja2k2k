@@ -60,7 +60,9 @@ def releases(limit: int = 5):
 
 
 def contributions(limit: int = 5):
-    q = urllib.parse.quote(f"is:pr author:{USER} is:merged -user:{USER}")
+    # Only work accepted by other projects counts: exclude my own account and my showcase orgs.
+    own = " ".join(f"-org:{o}" for o in ORGS)
+    q = urllib.parse.quote(f"is:pr author:{USER} is:merged -user:{USER} {own}")
     items = api(f"/search/issues?q={q}&sort=updated&order=desc&per_page={limit}").get("items", [])
     out = []
     for it in items:
