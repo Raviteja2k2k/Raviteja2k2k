@@ -180,7 +180,7 @@ flowchart LR
 ## Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/dr-ravi-teja-clinical-ai"><b>LinkedIn</b></a> ·
+  <a href="https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi"><b>LinkedIn</b></a> ·
   <a href="mailto:dr.raviteja1981.new@gmail.com"><b>Email</b></a> ·
   Hyderabad, India · open to remote roles (IST, UTC+5:30)
 </p>
