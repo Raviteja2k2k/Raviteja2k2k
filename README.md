@@ -1,16 +1,15 @@
-<!-- Profile README v2 · source of truth: TECH_PROFILE_MASTER (verified claims only) · built by scripts/build_assets.py + .github/workflows -->
+<!-- Profile README v3 · source of truth: TECH_PROFILE_MASTER (verified claims only) · built by scripts/build_assets.py + .github/workflows -->
+
+**Dr. Ravi Teja Thiriveedhi** · clinician turned AI systems architect · I design, ship and govern production multi-agent systems, with 20 years of clinical practice and hospital operations behind every decision. Hyderabad, India · open to remote roles (IST, UTC+5:30).
+
+**Start here:** [WhatsApp agent case study](https://github.com/sterilefield/whatsapp-agent-case-study) (a live client system) · [Agent governance kit](https://github.com/sterilefield/agent-governance-kit) · [LLM token economics](https://github.com/sterilefield/llm-token-economics) · [All showcases](https://github.com/sterilefield)
+
+**Contact:** [dr.raviteja1981.new@gmail.com](mailto:dr.raviteja1981.new@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi) · private walkthroughs of my own production systems on request, under NDA (client systems only with the client's permission)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img alt="Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect. Health-tech AI · Forward-deployed AI engineering · AI governance." src="assets/hero-light.svg" width="100%">
 </picture>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-    <img alt="Architect of 24 production AI agents · Cut LLM heartbeat spend by 91% · 20 years running hospitals and clinics · DICOM to 3D-printed surgical models" src="assets/typing-light.svg" width="640">
-  </picture>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/proof-dark.svg">
@@ -33,10 +32,10 @@ For twenty years I ran the operating side of healthcare: I treated patients, fou
 
 | Track | What I bring | Evidence |
 |---|---|---|
-| 🩺 **Health-tech AI** | 20 years of clinical and hospital operations, plus AI built for regulated care: consent-first, no clinical advice, human hand-off | Dental WhatsApp Front Desk · DICOM → 3D-print pipeline · Clinical Copilot |
-| 🚀 **AI startups · forward-deployed** | Two production multi-agent platforms shipped spec-first with Claude Code and Codex, from architecture to on-call | Tejas Empire OS · Real-estate AI operations platform |
-| 🛡️ **AI governance** | Autonomy levels, risk classes, kill switches, approval gates, audit trails; OWASP Agentic Top 10, NIST AI RMF and DPDP mapping | Empire OS governance framework |
-| 💸 **LLM cost engineering** | 46 token-economics methods across 5 layers (18 published in `llm-token-economics`); measured before/after on live systems | −91% heartbeat tokens · ₹0 marginal API cost per lead |
+| 🩺 **Health-tech AI** | 20 years of clinical and hospital operations, plus AI built for regulated care: consent-first, no clinical advice, human hand-off | [WhatsApp case study](https://github.com/sterilefield/whatsapp-agent-case-study) (human takeover, owner-approved messaging) |
+| 🚀 **AI startups · forward-deployed** | Two production multi-agent platforms shipped spec-first with Claude Code and Codex, from architecture to on-call | [Empire OS reference architecture](https://github.com/sterilefield/empire-os-reference-architecture) · [WhatsApp case study](https://github.com/sterilefield/whatsapp-agent-case-study) |
+| 🛡️ **AI governance** | Autonomy levels, risk classes, kill switches, approval gates, audit trails; OWASP Agentic Top 10, NIST AI RMF and DPDP mapping | [agent-governance-kit](https://github.com/sterilefield/agent-governance-kit) |
+| 💸 **LLM cost engineering** | 46 token-economics methods across 5 layers (18 published in `llm-token-economics`); measured before/after on live systems | [llm-token-economics](https://github.com/sterilefield/llm-token-economics): −91% heartbeat tokens · ₹0 marginal API cost per lead |
 
 ## What I've built in 2026
 
@@ -159,12 +158,11 @@ flowchart LR
 | 2026 – now | Architect and operator, Tejas Empire OS; architect and builder of a client AI operations platform |
 | 2019 – now | Founder and lead engineer, INGENIUM 3D (clinical 3D printing studio) |
 | 2010 – 2025 | Founder and chief dental surgeon, DV Dental Hospital & Implant Centre (team of 26) |
-| 2010 – now | Senior administrator, Manjary Nursing Home (600+ patient encounters a month) |
+| 2010 – now | Senior administrator, Manjary Nursing Home |
 | 2007 – now | Founder · senior clinical systems architect · senior administrator and dental surgeon, Manjary Dental Care Centre |
 | 2013 – 2019 | Founder and CEO, Shree Manjary Medical Agency (clean exit) |
 | 2006 – 2010 | Associate dentist → branch head → regional clinical administrator, a 9-branch dental hospital group |
 
-**Clinical depth:** 3,000+ root canal treatments · 600+ surgical extractions · reinfection −90% through spore-tested sterilisation governance · antibiotic misuse −40% through standard treatment guidelines.
 
 **Education:** BDS, Rajiv Gandhi University of Health Sciences (course 2000–2005, internship 2006); registered dental surgeon, AP State Dental Council (since 2010). **Languages:** English, Telugu, Hindi, Kannada.
 </details>
@@ -188,9 +186,4 @@ flowchart LR
   Hyderabad, India · open to remote roles (IST, UTC+5:30)
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raviteja2k2k/Raviteja2k2k/output/github-snake-dark.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Raviteja2k2k/Raviteja2k2k/output/github-snake.svg" width="100%">
-</picture>
-
-<sub>Engineering numbers come from the linked repositories, release notes and case studies. Clinical figures are from my own practice records and are not independently audited. Graphics are generated by this repository's own workflows.</sub>
+<sub>Engineering numbers come from the linked repositories, release notes and case studies. Operational figures are from my own records and are not independently audited. Graphics are generated by this repository's own workflows.</sub>
