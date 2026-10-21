@@ -6,7 +6,7 @@
 
 **Try the live demos (invented data, run in your browser):** [Agent governance gate](https://sterilefield.github.io/agent-governance-kit/) · [Owner approval desk](https://sterilefield.github.io/whatsapp-agent-case-study/) · [Heartbeat token calculator](https://sterilefield.github.io/llm-token-economics/) · [Control plane playground](https://sterilefield.github.io/empire-os-reference-architecture/)
 
-**Contact:** [dr.raviteja1981.new@gmail.com](mailto:dr.raviteja1981.new@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi) · private walkthroughs of my own production systems on request, under NDA (client systems only with the client's permission)
+**Contact:** [dr.raviteja1981.new@gmail.com](mailto:dr.raviteja1981.new@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi) · [Website](https://raviteja2k2k.github.io) · private walkthroughs of my own production systems on request, under NDA (client systems only with the client's permission)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
@@ -205,6 +205,7 @@ flowchart LR
 <p>
   <a href="https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi"><b>LinkedIn</b></a> ·
   <a href="mailto:dr.raviteja1981.new@gmail.com"><b>Email</b></a> ·
+  <a href="https://raviteja2k2k.github.io"><b>Website</b></a> ·
   Hyderabad, India · open to remote roles (IST, UTC+5:30)
 </p>
 
