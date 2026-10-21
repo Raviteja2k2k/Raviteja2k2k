@@ -150,17 +150,18 @@ flowchart LR
 <!-- LATEST:START -->
 **Public showcases**
 
-- 🧪 [sterilefield/llm-token-economics](https://github.com/sterilefield/llm-token-economics) — Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, with measured before/after.
-- 🧪 [sterilefield/agent-governance-kit](https://github.com/sterilefield/agent-governance-kit) — Autonomy levels, risk classes, approval tiers, kill switches and audit for AI agents, mapped to OWASP Agentic Top 10, NIST AI RMF and ISO/IEC 42001, with a healthcare overlay for India.
 - 🧪 [sterilefield/empire-os-reference-architecture](https://github.com/sterilefield/empire-os-reference-architecture) — Reference architecture: 9 governed AI agents on an 8 GB Mac mini, 99/99-suite release gate, 1,026 tests. Sanitised showcase of Empire OS.
+- 🧪 [sterilefield/llm-token-economics](https://github.com/sterilefield/llm-token-economics) — Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, with measured before/after.
 - 🧪 [sterilefield/whatsapp-agent-case-study](https://github.com/sterilefield/whatsapp-agent-case-study) — Anonymised case study: a 15-agent WhatsApp and Telegram operations platform for a real-estate brokerage. Single-writer data spine, human-in-charge policy, −91% heartbeat tokens.
+- 🧪 [sterilefield/agent-governance-kit](https://github.com/sterilefield/agent-governance-kit) — Autonomy levels, risk classes, approval tiers, kill switches and audit for AI agents, mapped to OWASP Agentic Top 10, NIST AI RMF and ISO/IEC 42001, with a healthcare overlay for India.
 
 **Latest releases**
 
+- 🚀 [llm-token-economics v0.2.0](https://github.com/sterilefield/llm-token-economics/releases/tag/v0.2.0) · 2026-10-21
+- 🚀 [agent-governance-kit v0.2.0](https://github.com/sterilefield/agent-governance-kit/releases/tag/v0.2.0) · 2026-10-21
+- 🚀 [whatsapp-agent-case-study v0.2.0](https://github.com/sterilefield/whatsapp-agent-case-study/releases/tag/v0.2.0) · 2026-10-21
+- 🚀 [empire-os-reference-architecture v0.2.0](https://github.com/sterilefield/empire-os-reference-architecture/releases/tag/v0.2.0) · 2026-10-21
 - 🚀 [agent-governance-kit v0.1.0](https://github.com/sterilefield/agent-governance-kit/releases/tag/v0.1.0) · 2026-10-14
-- 🚀 [whatsapp-agent-case-study v0.1.0](https://github.com/sterilefield/whatsapp-agent-case-study/releases/tag/v0.1.0) · 2026-10-14
-- 🚀 [empire-os-reference-architecture v0.1.0](https://github.com/sterilefield/empire-os-reference-architecture/releases/tag/v0.1.0) · 2026-10-14
-- 🚀 [llm-token-economics v0.1.0](https://github.com/sterilefield/llm-token-economics/releases/tag/v0.1.0) · 2026-10-14
 
 <sub>Updated automatically by GitHub Actions.</sub>
 <!-- LATEST:END -->
