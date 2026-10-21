@@ -4,6 +4,8 @@
 
 **Start here:** [WhatsApp agent case study](https://github.com/sterilefield/whatsapp-agent-case-study) (a live client system) · [Agent governance kit](https://github.com/sterilefield/agent-governance-kit) · [LLM token economics](https://github.com/sterilefield/llm-token-economics) · [All showcases](https://github.com/sterilefield)
 
+**Try the live demos (invented data, run in your browser):** [Agent governance gate](https://sterilefield.github.io/agent-governance-kit/) · [Owner approval desk](https://sterilefield.github.io/whatsapp-agent-case-study/) · [Heartbeat token calculator](https://sterilefield.github.io/llm-token-economics/) · [Control plane playground](https://sterilefield.github.io/empire-os-reference-architecture/)
+
 **Contact:** [dr.raviteja1981.new@gmail.com](mailto:dr.raviteja1981.new@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dr-ravi-teja-thiriveedhi) · private walkthroughs of my own production systems on request, under NDA (client systems only with the client's permission)
 
 <picture>
