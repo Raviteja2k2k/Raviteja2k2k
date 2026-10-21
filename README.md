@@ -37,6 +37,19 @@ For twenty years I ran the operating side of healthcare: I treated patients, fou
 > [!NOTE]
 > Most of my production work is private (client systems and my own platform). The contribution graph shows that activity; the case studies below explain it. Sanitised public showcases are published under **[Sterile Field](https://github.com/sterilefield)** — clean-room engineering for healthcare AI — as each one passes a five-gate release check.
 
+## Showcases at a glance
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/sterilefield/whatsapp-agent-case-study"><img alt="WhatsApp agent case study: showcase card" src="https://github.com/sterilefield/whatsapp-agent-case-study/raw/main/docs/img/social-preview.png" width="100%"></a><br><sub><a href="https://github.com/sterilefield/whatsapp-agent-case-study"><b>WhatsApp agent case study</b></a> · <a href="https://sterilefield.github.io/whatsapp-agent-case-study/">live demo</a></sub></td>
+<td width="50%"><a href="https://github.com/sterilefield/agent-governance-kit"><img alt="Agent governance kit: showcase card" src="https://github.com/sterilefield/agent-governance-kit/raw/main/docs/img/social-preview.png" width="100%"></a><br><sub><a href="https://github.com/sterilefield/agent-governance-kit"><b>Agent governance kit</b></a> · <a href="https://sterilefield.github.io/agent-governance-kit/">live demo</a></sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/sterilefield/llm-token-economics"><img alt="LLM token economics: showcase card" src="https://github.com/sterilefield/llm-token-economics/raw/main/docs/img/social-preview.png" width="100%"></a><br><sub><a href="https://github.com/sterilefield/llm-token-economics"><b>LLM token economics</b></a> · <a href="https://sterilefield.github.io/llm-token-economics/">live demo</a></sub></td>
+<td width="50%"><a href="https://github.com/sterilefield/empire-os-reference-architecture"><img alt="Empire OS reference architecture: showcase card" src="https://github.com/sterilefield/empire-os-reference-architecture/raw/main/docs/img/social-preview.png" width="100%"></a><br><sub><a href="https://github.com/sterilefield/empire-os-reference-architecture"><b>Empire OS reference architecture</b></a> · <a href="https://sterilefield.github.io/empire-os-reference-architecture/">live demo</a></sub></td>
+</tr>
+</table>
+
 ## Hire me for
 
 | Track | What I bring | Evidence |
